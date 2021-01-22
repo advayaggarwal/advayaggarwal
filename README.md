@@ -1,6 +1,7 @@
-<!--
+
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=advayaggarwal)
+<!--
 **advayaggarwal/advayaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -12,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <h1 align="center">Hi 👋, I'm Advay Aggarwal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -35,3 +37,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advayaggarwal&show_icons=true&locale=en&layout=compact" alt="advayaggarwal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advayaggarwal&show_icons=true&locale=en" alt="advayaggarwal" /></p>
+-->
